@@ -1,4 +1,3 @@
-import { useEffect } from 'react';
 import { useApp } from './use-app';
 
 function App() {
